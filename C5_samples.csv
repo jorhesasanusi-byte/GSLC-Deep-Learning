@@ -1,0 +1,5 @@
+id,path,actual,predicted,confidence
+Abyssinian_118,data/oxford-iiit-pet/images/Abyssinian_118.jpg,Abyssinian,British_Shorthair,0.7930808663368225
+Abyssinian_31,data/oxford-iiit-pet/images/Abyssinian_31.jpg,Abyssinian,British_Shorthair,0.910233199596405
+samoyed_169,data/oxford-iiit-pet/images/samoyed_169.jpg,samoyed,samoyed,0.9999985694885254
+beagle_19,data/oxford-iiit-pet/images/beagle_19.jpg,beagle,beagle,0.9999994039535522

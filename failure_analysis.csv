@@ -1,0 +1,5 @@
+id,path,actual,predicted,confidence,hipotesis
+Bengal_84,data/oxford-iiit-pet/images/Bengal_84.jpg,Bengal,Abyssinian,0.8537965416908264,
+Birman_124,data/oxford-iiit-pet/images/Birman_124.jpg,Birman,Siamese,0.7557051181793213,
+Siamese_150,data/oxford-iiit-pet/images/Siamese_150.jpg,Siamese,Abyssinian,0.7288057208061218,
+Siamese_228,data/oxford-iiit-pet/images/Siamese_228.jpg,Siamese,Birman,0.5591949224472046,
